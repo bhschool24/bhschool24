@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bhschool24
+- 🌱 I’m currently learning html & c++
+- 💞️ I’m looking to collaborate on many animation based websites & loader/menu cilent websites
