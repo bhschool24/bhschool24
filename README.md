@@ -2,7 +2,7 @@
 ---
 
 
-### 🔤 Languages
+### Languages
 
 | Language | Proficiency |
 |----------|-------------|
@@ -11,7 +11,7 @@
 | ![Python](https://img.shields.io/badge/Python-3.x-%233572A5) | ![Advanced](https://img.shields.io/badge/Level-Advanced-%2332CD32) |
 | ![Lua](https://img.shields.io/badge/Lua-5.1-%232C2D72)       | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-%2300BFFF) |
 
-### 🛠️ Projects
+### Projects
 
 | Project Name | Description |
 |--------------|-------------|
