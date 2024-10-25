@@ -1,21 +1,6 @@
-# Welcome to My Coding Lair 🔥
-
-**I am a passionate coder, hacking away to create impactful projects that push the boundaries of technology.**
-
+# Welcome to My Coding journeys 🔥
 ---
 
-## 📚 Table of Contents
-
-- [🕵️‍♂️ Experience](#experience)
-  - [🔤 Languages](#languages)
-  - [🛠️ Projects](#projects)
-- [📈 Stats](#stats)
-- [🚀 Get In Touch](#get-in-touch)
-- [🔗 References](#references)
-
----
-
-## 🕵️‍♂️ Experience
 
 ### 🔤 Languages
 
@@ -32,7 +17,7 @@
 |--------------|-------------|
 | **Rework of School Website** | Transforming the digital experience for students and staff. |
 | **Server & Client-Sided Authentication** | Guarding the gates with secure authentication methods. |
-| **School/General Blocker Detection Finder** | Evasion tactics for the curious minds, discovering blockers. |
+| **School/General Blocker Detection Finder** | Evasion tactics for the curious minds, finding bypasses to enhance. |
 | **Chromebook GoGuardian Debugger** | Cracking the code of classroom surveillance for enhanced privacy, to find flaws. |
 
 ---
