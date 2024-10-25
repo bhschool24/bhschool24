@@ -1,4 +1,4 @@
-# Welcome to My Coding journeys 🔥
+# Welcome to My Coding Journey 🔥
 ---
 
 
