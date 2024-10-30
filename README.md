@@ -19,6 +19,7 @@
 | **Server & Client-Sided Authentication** | Guarding the gates with secure authentication methods. |
 | **School/General Blocker Detection Finder** | Evasion tactics for the curious minds, finding bypasses to enhance. |
 | **Chromebook GoGuardian Debugger** | Cracking the code of classroom surveillance for enhanced privacy, to find flaws. |
+| **Project: OncoKill** | Finding the flaws in 'Chemotherapy' to find another solutions for cancer. |
 
 ---
 
